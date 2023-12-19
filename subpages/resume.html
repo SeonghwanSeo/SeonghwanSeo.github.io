@@ -1,0 +1,396 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Curriculum Vitae: Seonghwan Seo</title>
+    <style>
+        body {
+            color: #000000;
+            background: #EEEEEE;
+            font: 1.0em "Times New Roman";
+            line-height: 1.2;
+            margin: 40px 0;
+        }
+        #resume {
+            margin: 0 auto;
+            max-width: 800px;
+            padding: 40px 60px;
+            background: #FFFFFF;
+            border: 1px solid #CCCCCC;
+            box-shadow: 2px 2px 4px #AAAAAA;
+            -webkit-box-shadow: 2px 2px 4px #AAAAAA;
+        }
+        h1 {
+            text-align: center;
+            font-size: 200%;
+            margin: 0;
+            padding: 0;
+        }
+        h2 {
+            border-bottom: 1px solid #000000;
+            text-transform: uppercase;
+            font-size: 130%;
+            margin: 1em 0 0.3em 0;
+            padding: 0;
+        }
+        h3 {
+            font-size: 110%;
+            margin: 0.3em 0 0 0;
+            padding: 0;
+            display: flex;
+            justify-content: space-between;
+        }
+        p {
+            margin: 0 0 0.3em 0;
+            padding: 0;
+            }
+
+        ul {
+            padding: 0;
+            margin: 0 1.5em;
+            }
+        li {
+            padding: 0;
+            margin: 0.2em 0 0.2em 0;
+;
+            }
+
+        .current_position {
+            text-align: center;
+            font-style: italic;
+            font-size: 110%;
+            margin: 0.2em 0 0 0;
+        }
+        .contact {
+            text-align: center;
+            margin: 0.2em 0 0 0;
+        }
+
+        .experience_header {
+            font-size: 110%;
+            margin: 0.3em 0 0 0;
+            padding: 0;
+            display: flex;
+            justify-content: space-between;
+        }
+        .experience_inform {
+            display: flex;
+            font-style: italic;
+            justify-content: space-between;
+            }
+        .experience_content {
+            }
+
+        .publication_elem{
+            margin: 0 0 0.2em 0;
+        }
+        .publication_author{
+            padding: 0 0 0 0;
+        }
+        .publication_journal{
+            font-style: italic;
+            padding: 0 0 0 0;
+        }
+
+        .award_name{
+            font-weight: bold;
+        }
+        .award_inform{
+            font-style: italic;
+        }
+
+        @media print {
+            body {
+                font-size: 10pt;
+                margin: 0;
+                padding: 0;
+                background: none;
+            }
+            #resume {
+                margin: 0;
+                padding: 0;
+                border: 0px;
+                background: none;
+                box-shadow: none;
+                -webkit-box-shadow: none;
+            }
+            /* Do not underline abbr tags in PDF */
+            abbr {
+                text-decoration: none;
+                font-variant: none;
+            }
+            /* Make links black in PDF */
+            /* Move this outside the print block to apply this in HTML too */
+            a, a:link, a:visited, a:hover {
+                color: #000000;
+                text-decoration: underline;
+            }
+        }
+        @page {
+            /* Change margins and paper size of PDF */
+            /* https://developer.mozilla.org/en-US/docs/Web/CSS/@page */
+            size: letter;
+            margin: 0.5in 0.8in;
+        }
+        @media screen and (max-width: 800px) {
+            body {
+                font-size: 16pt;
+                margin: 0;
+                padding: 0;
+                background: #FFFFFF !important;
+            }
+            #resume {
+                margin: 0;
+                padding: 1em;
+                border: 0px;
+                background: none;
+                box-shadow: none;
+                -webkit-box-shadow: none;
+            }
+        }
+    </style>
+</head>
+
+<body>
+<div id="resume">
+<!-- The (first) h1 will be used as the <title> of the HTML page -->
+
+<section class="header">
+    <h1>Seonghwan Seo</h1>
+    <div class="current_position">
+        Ph.D. Candidate |
+        Korea Advanced Institute of Science and Technology
+    </div>
+    <ul class="contact">
+        <a href="mailto: shwan0106@kaist.ac.kr">shwan0106@kaist.ac.kr</a>  |  
+        <a href="https://seonghwanseo.github.io">Website</a>  |  
+        <a href="https://scholar.google.com/citations?user=NGc_Z_UAAAAJ">Google Scholar</a>  |  
+        <a href="https://github.com/SeonghwanSeo">GitHub</a>
+    </ul>
+</section>
+
+
+<section class="interest_section">
+    <h2>Research Interests</h2>
+    <div class="intest_item">
+        <h3>Deep Learning</h3>
+        Generative model; GFlowNet; XAI; Multi-modal; Graph neural network; 3D voxel image modeling
+    </div>
+    <div class="intest_item">
+        <h3>Drug Discovery</h3>
+        Protein; Small molecule; Protein-ligand interaction; Pharmacophore modeling; Virtual screening; Molecular design;<br>
+        Property prediction; Molecular docking
+    </div>
+    <div class="intest_item">
+        <h3>Material Discovery</h3>
+        Property-control; Synthesizability
+    </div>
+</section>
+
+<section class="education_section">
+    <h2>Education</h2>
+    <div class="experience_item">
+        <div class="experience_header">
+            <span><b>Korea Advanced Institute of Science and Technology (KAIST)</b></span>
+            <span>Daejeon, South Korea</span>
+        </div>
+
+        <div class="experience_inform">
+            <span>Ph.D. student in Chemistry</span>
+            <span>Aug. 2022 - Aug. 2027 (expected)</span>
+        </div>
+
+        <div class="experience_content">
+            Supervisor: Woo Youn Kim<br>
+        </div>
+    </div>
+
+    <div class="experience_item">
+        <div class="experience_header">
+            <span><b>Korea Advanced Institute of Science and Technology (KAIST)</b></span>
+            <span>Daejeon, South Korea</span>
+        </div>
+
+        <div class="experience_inform">
+            <span>B.S. in Chemistry &amp; Computer Science (Double Major)</span>
+            <span>Feb. 2018 - Aug. 2022</span>
+        </div>
+
+        <div class="experience_content">
+            Supervisor: Young Min Rhee<br>
+            <span style="color: gray">GPA: 3.99/4.3</span>
+        </div>
+    </div>
+</section>
+
+<section class="experience_section">
+    <h2>Experiences</h2>
+    <div class="experience_item">
+        <div class="experience_header">
+            <span><b>Intelligent Chemistry Lab, KAIST</b></span>
+            <span>Daejeon, South Korea</span>
+        </div>
+
+        <div class="experience_inform">
+            <span>AI Research Assistent, AI-based drug discovery</span>
+            <span>June 2019 - Present</span>
+        </div>
+
+        <div class="experience_content">
+            Supervisor: Woo Youn Kim
+            <ul>
+                <li>Designing the deep learning framework for a new drug-likeness scoring</li>
+                <li>Development of deep learning model for fully-automated receptor-based pharmacophore modeling</li>
+                <li>Research projects on high-throughput structure-based virtual screening</li>
+                <li>Research projects on pharmacophore-guided generative model for target-aware molecular design</li>
+            </ul>
+        </div>
+    </div>
+
+    <div class="experience_item">
+        <div class="experience_header">
+            <span><b>HITS Inc.</b></span>
+            <span>Seoul, South Korea</span>
+        </div>
+
+        <div class="experience_inform">
+            <span>AI Research Intern</span>
+            <span>Dec. 2020 - Aug. 2022</span>
+        </div>
+
+        <div class="experience_content">
+            Manager: Jaechang Lim
+            <ul>
+                <li>Development of reaction template-based generative model for synthesizable molecular design with desired property</li>
+                <li>Development of SMILES generative model by synthesis path generation</li>
+                <li>Research Projects on protein-ligand binding pose prediction with score-based model</li>
+            </ul>
+        </div>
+    </div>
+</section>
+
+<section class="publication_section">
+    <h2>Publications</h2>
+    <p style="color:gray">* indicates equal contribution</p>
+    <div class="publication_type">
+        <h3>Journals</h3>
+        <ul>
+            <li class="publication_elem">
+                Molecular Generative Model via Retrosynthetically Prepared Chemical Building Block Assembly
+                <a class="text-link" href="https://doi.org/10.1002/advs.202206674">[link]</a>
+                <a class="text-link" href="https://doi.org/10.1002/advs.202370047">[cover]</a>
+                <div class="publication_author"><b>Seonghwan Seo</b>, Jaechang Lim, Woo Youn Kim</div>
+                <div class="publication_journal">Advanced Science, 2023</div>
+            </li>
+            <li class="publication_elem">
+                Drug-likeness scoring based on unsupervised learning
+                <a class="text-link" href="https://doi.org/10.1039/D1SC05248A">[link]</a>
+                <div class="publication_author">Kyunghoon Lee*, Jinho Jang*, <b>Seonghwan Seo*</b>, Jaechang Lim, Woo Youn Kim</div>
+                <div class="publication_journal">Chemical Science, 2022</div>
+            </li>
+        </ul>
+
+    </div>
+    <div class="publication_type">
+        <h3>Conferences</h3>
+        <ul>
+            <li class="publication_elem">
+                PharmacoNet: Accelerating Large-Scale Virtual Screening by Deep Pharmacophore Modeling
+                <a class="text-link" href="https://arxiv.org/abs/2310.00681">[link]</a>
+                <div class="publication_author"><b>Seonghwan Seo</b>, Woo Youn Kim</div>
+                <div class="publication_journal">NeurIPS 2023 Workshop on New Frontiers of AI for Drug Discovery and Development (AI4D3), 2023</div>
+            </li>
+        </ul>
+    </div>
+</section>
+
+<section class="presentation_section">
+    <h2>Presentations</h2>
+    <div class="presentation_type">
+        <h3>Invited</h3>
+        <ul>
+            <li class="presentation_elem">
+                "Molecular Generative Model via Retrosynthetically Prepared Chemical Building Block Assembly"
+                Oral workwhop and tutorial at <i>AI-BIO, Artificial Intelligence Institute, Seoul National University</i>, Seoul, South Korea
+                (Nov. 2022)
+            </li>
+        </ul>
+    </div>
+    <div class="presentation_type">
+        <h3>Contributed</h3>
+        <ul>
+            <li class="presentation_elem">
+                "PharmacoNet: Accelerating Large-Scale Virtual Screening by Deep Pharmacophore Modeling"
+                Poster presentation at the <i>NeurIPS 2023 Workshop on New Frontiers of AI for Drug Discovery and Development (AI4D3)</i>, New Orleans, LA.
+                (Dec. 2023)
+            </li>
+            <li class="presentation_elem">
+                "Molecular Generative Model via Retrosynthetically Prepared Chemical Building Block Assembly"
+                Poster presentation at the <i>2023 Accelerate Conference</i>, Toronto, Canada
+                (Aug. 2023)
+            </li>
+        </ul>
+    </div>
+</section>
+
+<section class="award_section">
+    <h2>Awards &amp; Scholarships</h2>
+    <ul>
+        <li class="award_elem">
+            <div class="award_name">Awards: Admission in Graduate School with Highest Honors</div>
+            <div class="award_inform">KAIST Chemistry Alumni Association, 2023</div>
+        </li>
+        <li class="award_elem">
+            <div class="award_name">KAIST Alumni Scholarship</div>
+            <div class="award_inform">KAIST Alumni Association, 2021 - 2022</div>
+        </li>
+        <li class="award_elem">
+            <div class="award_name">Younghoon Lee Scholarship</div>
+            <div class="award_inform">Department of Chemistry, KAIST, 2021</div>
+        </li>
+        <li class="award_elem">
+            <div class="award_name">Model Student Awards</div>
+            <div class="award_inform">KAIST, 2021</div>
+        </li>
+        <li class="award_elem">
+            <div class="award_name">Dean's List</div>
+            <div class="award_inform">College of Natural Science, KAIST, 2021</div>
+        </li>
+        <li class="award_elem">
+            <div class="award_name">National Science & Technology Scholarship</div>
+            <div class="award_inform">Government of South Korea, 2020 - 2021</div>
+        </li>
+        <li class="award_elem">
+            <div class="award_name">Dean's List</div>
+            <div class="award_inform">School in Freshman, KAIST, 2019</div>
+        </li>
+    </ul>
+</section>
+
+<section class="professional_section">
+    <h2>Professional Services</h2>
+    <div class="professional_type">
+        <h3>Open-sourced Software Development</h3>
+        <ul>
+            <li class="software_elem">
+                MolVoxel: Easy-To-Use Molecular Voxelization Tool with Minimal Dependencies
+                <a class="text-link" href="https://pypi.org/project/molvoxel">[link]</a>
+            </li>
+        </ul>
+    </div>
+</section>
+
+<section class="skill_section">
+    <h2>Skills</h2>
+    <div class="skill_type">
+        <h3>Languages</h3>
+        Korean (native), English (advanced)
+        <h3>Deep Learning Tools</h3>
+        Python, PyTorch, PyTorch Geometric, PyTorch Lightning, Numba, Pandas
+        <h3>Chemistry Tools</h3>
+        RDKit, OpenBabel, Smina, rDock
+    </div>
+</section>
+
+</body>
+</html> 
+
