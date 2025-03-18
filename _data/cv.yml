@@ -1,97 +1,85 @@
-- title: General Information
-  type: map
-  contents:
-    - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
-    - name: Languages
-      value: English, German
-
 - title: Education
   type: time_table
   contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
+    - title: Ph.D. Candidate in Chemistry
+      institution: Korea Advanced Institute of Science and Technology (KAIST)
+      year: 2022.8 - now
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
+        - "Supervisor: Woo Youn Kim"
+    - title: B.S. in Chemistry & Computer Science (Double Major)
+      institution: Korea Advanced Institute of Science and Technology (KAIST)
+      year: 2018.2 - 2022.8
       description:
-        - Description 1.
-        - Description 2.
+        - "Supervisor: Young Min Rhee"
+        - "GPA: 3.99/4.3"
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: AI4Science Researcher
+      institution: Korea Advanced Institute of Science and Technology (KAIST)
+      year: 2019.6 - now
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+        - "Supervisor: Woo Youn Kim"
+        - Research projects on synthesizable drug discovery
+        - Generative flow networks (GFlowNets) for drug discovery
+        - Trillion-scale chemical library screening using GFlowNet
+        - Development of a DL architecture for fully-automated receptor-based pharmacophore modeling
+        - Development of an unbiased drug-likeness scoring
+
+    - title: AI Research Intern
+      institution: HITS Inc.
+      year: 2020.12 - 2022.8
       description:
-        - Description 1.
-        - Description 2.
+        - "Supervisor: Jaechang Lim"
+        - Research projects on synthesizable drug discovery
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
-      description:
-
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
-
-- title: Open Source Projects
+- title: Software
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: <a href="https://hyperlab.hits.ai/en/blog/ScreeningX_">Hyper Screening X</a>
+      year: 2025
+      description: 7 trillion-scale virtual screening with RxnFlow
+    - title: <a href="https://github.com/SeonghwanSeo/OpenPharmaco">OpenPharmaco</a>
+      year: 2024
+      description: Open-source protein-based pharmacophore modeling software
+    - title: <a href="https://github.com/SeonghwanSeo/molvoxel">MolVoxel</a>
+      year: 2023
+      description: Open-source Easy-to-Use Molecular Voxelization Tool
 
 - title: Honors and Awards
   type: time_table
   contents:
-    - year: 1921
+    - year: 2023
       items:
-        - Nobel Prize in Physics
-        - Matteucci Medal
-    - year: 2029
+        - Admission in Graduate School with Highest Honors
+    - year: 2022
       items:
-        - Max Planck Medal
+        - KAIST Alumni Scholarship
+    - year: 2021
+      items:
+        - Younghoon Lee Scholarship
+        - Model Student Awards
+        - Dean's List
+    - year: 2020
+      items:
+        - National Science & Technology Scholarship
+    - year: 2019
+      items:
+        - Dean's List
 
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: Drug Discovery
       items:
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
+        - Small molecule drug design
+        - Synthesizability
+        - Protein-ligand interaction
+        - Virtual screening
+        - Pharmacophore modeling
+    - title: Deep Learning
       items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
-  type: list
-  contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+        - Generative Flow Network (GFlowNet)
+        - Graph Neural Network (GNN)
+        - Combinatorial Optimization
