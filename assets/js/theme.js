@@ -232,7 +232,8 @@ let determineComputedTheme = () => {
 };
 
 let initTheme = () => {
-  let themeSetting = determineThemeSetting();
+  // let themeSetting = determineThemeSetting();
+  let themeSetting = "dark";
 
   setThemeSetting(themeSetting);
 
