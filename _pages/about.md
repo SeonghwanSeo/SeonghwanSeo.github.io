@@ -23,7 +23,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am currently a Ph.D. student in the Department of Chemistry, KAIST, under the supervision of [Prof. Woo Youn Kim](https://wooyoun.kaist.ac.kr).
+I am a Ph.D. student in the Department of Chemistry, KAIST, under the supervision of [Prof. Woo Youn Kim](https://wooyoun.kaist.ac.kr).
 
 My research area is AI-driven scientific discovery, with a particular focus on small molecule drugs.
 I have developed deep learning models in various areas of drug discovery including generative modeling, virtual screening, property prediction, and pharmacophore modeling.

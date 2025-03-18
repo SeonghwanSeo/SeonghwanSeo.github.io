@@ -1,29 +1,28 @@
 - title: Education
   type: time_table
   contents:
-    - title: Ph.D. Candidate in Chemistry
+    - title: Ph.D. Candidate (MS/PhD Program) in Chemistry
       institution: Korea Advanced Institute of Science and Technology (KAIST)
-      year: 2022.8 - now
+      year: 2022.8 - prevent
       description:
-        - "Supervisor: Woo Youn Kim"
+        - Supervised by Prof. <a href="https://scholar.google.com/citations?user=elJ5KrcAAAAJ&hl">Woo Youn Kim</a>
     - title: B.S. in Chemistry & Computer Science (Double Major)
       institution: Korea Advanced Institute of Science and Technology (KAIST)
       year: 2018.2 - 2022.8
       description:
-        - "Supervisor: Young Min Rhee"
-        - "GPA: 3.99/4.3"
+        - GPA - 3.99/4.3
 
 - title: Experience
   type: time_table
   contents:
     - title: AI4Science Researcher
       institution: Korea Advanced Institute of Science and Technology (KAIST)
-      year: 2019.6 - now
+      year: 2019.6 - prevent
       description:
-        - "Supervisor: Woo Youn Kim"
-        - Research projects on synthesizable drug discovery
+        - Supervised by Prof. <a href="https://scholar.google.com/citations?user=elJ5KrcAAAAJ&hl">Woo Youn Kim</a>
         - Generative flow networks (GFlowNets) for drug discovery
         - Trillion-scale chemical library screening using GFlowNet
+        - Research projects on synthesizable drug discovery
         - Development of a DL architecture for fully-automated receptor-based pharmacophore modeling
         - Development of an unbiased drug-likeness scoring
 
@@ -31,7 +30,7 @@
       institution: HITS Inc.
       year: 2020.12 - 2022.8
       description:
-        - "Supervisor: Jaechang Lim"
+        - Supervised by Dr. <a href="https://scholar.google.co.kr/citations?user=6ekxr3cAAAAJ&hl">Jaechang Lim</a>
         - Research projects on synthesizable drug discovery
 
 - title: Software
