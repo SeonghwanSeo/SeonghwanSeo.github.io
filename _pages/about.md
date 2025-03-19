@@ -38,9 +38,9 @@ By incorporating synthesis-oriented generative modeling, I aim to replace tradit
 **Generative modeling**
 
 - Generative flow networks (GFlowNets): [TacoGFN (TMLR 2024)](https://arxiv.org/abs/2310.03223), CGFlow (in review)
-- Synthesis-oriented molecular design: [BBAR (Advanced Science 2023)](https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/advs.202206674), [RxnFlow (ICLR 2025)](https://arxiv.org/abs/2410.04542)
+- Synthesis-oriented molecular design: [BBAR (Advanced Science 2023)](https://doi.org/10.1002/advs.202206674), [RxnFlow (ICLR 2025)](https://arxiv.org/abs/2410.04542)
 
-**In silico** **ligand evaluation**
+**In silico** **evaluation**
 
-- Protein-based pharmacophore modelings: [PharmacoNet (Chemical Science 2024)](https://pubs.rsc.org/en/content/articlelanding/2024/sc/d4sc04854g)
-- Drug-likeness scoring: [Unsupervised drug-likeness (Chemical Science 2022)](https://pubs.rsc.org/en/content/articlehtml/2022/sc/d1sc05248a)
+- Protein-based pharmacophore modelings: [PharmacoNet (Chemical Science 2024)](https://doi.org/10.1039/D4SC04854G)
+- Drug-likeness scoring: [Unsupervised drug-likeness (Chemical Science 2022)](https://doi.org/10.1039/D1SC05248A)
