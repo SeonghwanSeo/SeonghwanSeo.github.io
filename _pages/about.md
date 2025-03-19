@@ -32,3 +32,15 @@ Recently, I have focused on generative modeling with Generative Flow Networks (G
 By incorporating synthesis-oriented generative modeling, I aim to replace traditional _in silico_ virtual screening and _in vitro_ high-throughput screening.
 
 <!-- In the long term, I have interested in multimodal posterior modeling and uncertainty quantifying within chemical space, ultimately advancing drug discovery pipeline. -->
+
+## research highlights
+
+**Generative modeling**
+
+- Generative flow networks (GFlowNets): [TacoGFN (TMLR 2024)](https://arxiv.org/abs/2310.03223), CGFlow (in review)
+- Synthesis-oriented molecular design: [BBAR (Advanced Science 2023)](https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/advs.202206674), [RxnFlow (ICLR 2025)](https://arxiv.org/abs/2410.04542)
+
+**In silico** **ligand evaluation**
+
+- Protein-based pharmacophore modelings: [PharmacoNet (Chemical Science 2024)](https://pubs.rsc.org/en/content/articlelanding/2024/sc/d4sc04854g)
+- Drug-likeness scoring: [Unsupervised drug-likeness (Chemical Science 2022)](https://pubs.rsc.org/en/content/articlehtml/2022/sc/d1sc05248a)

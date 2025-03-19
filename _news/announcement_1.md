@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-1 paper is accepted to TMLR.
+1 paper is accepted to TMLR: [TacoGFN](https://arxiv.org/abs/2310.03223)

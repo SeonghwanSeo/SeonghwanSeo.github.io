@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-1 paper is accepted to Chemical Science.
+1 paper is accepted to Chemical Science: [PharmacoNet](https://pubs.rsc.org/en/content/articlelanding/2024/sc/d4sc04854g)

@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-1 paper is accepted to NeurIPS 2024 AI4DrugX Workshop.
+1 paper is accepted to NeurIPS 2024 AI4DrugX Workshop: [RxnFlow](https://arxiv.org/abs/2410.04542)

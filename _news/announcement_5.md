@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-1 paper is accepted to ICLR 2025.
+1 paper is accepted to ICLR 2025: [RxnFlow](https://arxiv.org/abs/2410.04542)
