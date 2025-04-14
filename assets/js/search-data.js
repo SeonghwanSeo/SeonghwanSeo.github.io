@@ -76,7 +76,7 @@ ninja.data = [{
           section: "News",},{id: "news-1-paper-is-accepted-to-iclr-2025-rxnflow",
           title: '1 paper is accepted to ICLR 2025: RxnFlow',
           description: "",
-          section: "News",},{id: "news-1-paper-is-accepted-as-spotlight-paper-to-iclr-2025-gem-and-ai4mat-workshop-cgflow-tba",
+          section: "News",},{id: "news-1-paper-is-accepted-as-spotlight-paper-to-iclr-2025-gem-and-ai4mat-workshop-cgflow",
           title: '1 paper is accepted as spotlight paper to ICLR 2025 GEM and AI4Mat...',
           description: "",
           section: "News",},{id: "projects-hyper-screening-x",
