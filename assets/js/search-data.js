@@ -79,9 +79,12 @@ ninja.data = [{
           section: "News",},{id: "news-1-paper-is-accepted-as-spotlight-paper-to-iclr-2025-gem-and-ai4mat-workshop-cgflow",
           title: '1 paper is accepted as spotlight paper to ICLR 2025 GEM and AI4Mat...',
           description: "",
+          section: "News",},{id: "news-rxnflow-has-became-a-world-s-largest-virtual-library-search-with-access-to-emolecules-11-trillion-compound-library-blog",
+          title: 'RxnFlow has became a world’s largest virtual library search with access to eMolecules’...',
+          description: "",
           section: "News",},{id: "projects-hyper-screening-x",
           title: 'Hyper Screening X',
-          description: "Hyper Screening X utilizes RxnFlow to efficiently explore a 7-trillion-compound ultra-large library, identifying innovative drug candidates with low binding energy and over 85% synthetic feasibility.",
+          description: "Hyper Screening X utilizes RxnFlow to efficiently explore a 11-trillion-compound ultra-large library, identifying innovative drug candidates with low binding energy and over 85% synthetic feasibility.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_project/";
             },},{
