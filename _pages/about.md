@@ -37,7 +37,7 @@ By incorporating synthesis-oriented generative modeling, I aim to replace tradit
 
 **Generative modeling**
 
-- Generative flow networks (GFlowNets): [TacoGFN (TMLR 2024)](https://arxiv.org/abs/2310.03223), CGFlow (in review)
+- Generative flow networks (GFlowNets): [TacoGFN (TMLR 2024)](https://arxiv.org/abs/2310.03223), [CGFlow (ICML 2025)](https://arxiv.org/abs/2504.08051)
 - Synthesis-oriented molecular design: [BBAR (Advanced Science 2023)](https://doi.org/10.1002/advs.202206674), [RxnFlow (ICLR 2025)](https://arxiv.org/abs/2410.04542)
 
 **In silico** **evaluation**

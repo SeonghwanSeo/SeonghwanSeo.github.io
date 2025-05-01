@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-[RxnFlow](https://arxiv.org/abs/2410.04542) has became a world's largest virtual library search with access to eMolecules' 11 trillion compound library [(Blog)](https://www.emolecules.com/molecules-hits-collaboration).
+[Hyper Screening X](https://hyperlab.hits.ai/en/blog/ScreeningX_) powered by [RxnFlow](https://arxiv.org/abs/2410.04542) has became a world's largest virtual library search with access to eMolecules' 11 trillion compound library [(Blog)](https://www.emolecules.com/molecules-hits-collaboration).
