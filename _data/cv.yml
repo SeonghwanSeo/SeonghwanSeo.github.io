@@ -49,6 +49,9 @@
 - title: Honors and Awards
   type: time_table
   contents:
+    - year: 2025
+      items:
+        - President of TTA award at Korea AI-Champion Competition
     - year: 2023
       items:
         - Admission in Graduate School with Highest Honors
@@ -73,6 +76,7 @@
     - title: Drug Discovery
       items:
         - Small molecule drug design
+        - Protein design
         - Synthesizability
         - Protein-ligand interaction
         - Virtual screening

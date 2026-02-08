@@ -5,7 +5,7 @@ title: cv
 nav: true
 nav_order: 5
 cv_pdf: resume.pdf
-description: "Last Updated: 2025.3"
+description: "Last Updated: 2026.2"
 toc:
   sidebar: left
 ---

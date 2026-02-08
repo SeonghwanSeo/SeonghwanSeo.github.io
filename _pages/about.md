@@ -25,13 +25,11 @@ latest_posts:
 
 I am a Ph.D. student in the Department of Chemistry, KAIST, under the supervision of [Prof. Woo Youn Kim](https://wooyoun.kaist.ac.kr).
 
-My research area is AI-driven scientific discovery, with a particular focus on small molecule drugs.
-I have developed deep learning models in various areas of drug discovery including generative modeling, virtual screening, property prediction, and pharmacophore modeling.
+My research area is AI-driven drug discovery, focusing on deep generative models for molecular design and _in silico_ evaluation. 
+During my Ph.D., I have specialized in integrating RL agent (RxnFlow) with autonomous laboratories to accelerate the discovery cycle.
 
-Recently, I have focused on generative modeling with Generative Flow Networks (GFlowNets).
-By incorporating synthesis-oriented generative modeling, I aim to replace traditional _in silico_ virtual screening and _in vitro_ high-throughput screening.
-
-<!-- In the long term, I have interested in multimodal posterior modeling and uncertainty quantifying within chemical space, ultimately advancing drug discovery pipeline. -->
+Currently, I serve as the primary developer for K-Fold, a national project dedicated to biomolecular structure prediction.
+Moreover, I am extending my research into computational protein design, collaborating with Prof. Wengong Jin.
 
 ## research highlights
 
@@ -39,8 +37,10 @@ By incorporating synthesis-oriented generative modeling, I aim to replace tradit
 
 - Generative flow networks (GFlowNets): [TacoGFN (TMLR 2024)](https://arxiv.org/abs/2310.03223), [CGFlow (ICML 2025)](https://arxiv.org/abs/2504.08051)
 - Synthesis-oriented molecular design: [BBAR (Advanced Science 2023)](https://doi.org/10.1002/advs.202206674), [RxnFlow (ICLR 2025)](https://arxiv.org/abs/2410.04542)
+- Multi-state protein design: TBA.
 
 **In silico** **evaluation**
 
 - Protein-based pharmacophore modelings: [PharmacoNet (Chemical Science 2024)](https://doi.org/10.1039/D4SC04854G)
 - Drug-likeness scoring: [Unsupervised drug-likeness (Chemical Science 2022)](https://doi.org/10.1039/D1SC05248A)
+- Enzyme-substrate specificity prediction: TBA.
