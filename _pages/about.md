@@ -37,10 +37,10 @@ Moreover, I am extending my research into computational protein design, collabor
 
 - Generative flow networks (GFlowNets): [TacoGFN (TMLR 2024)](https://arxiv.org/abs/2310.03223), [CGFlow (ICML 2025)](https://arxiv.org/abs/2504.08051)
 - Synthesis-oriented molecular design: [BBAR (Advanced Science 2023)](https://doi.org/10.1002/advs.202206674), [RxnFlow (ICLR 2025)](https://arxiv.org/abs/2410.04542)
-- Multi-state protein design: TBA.
+- Multi-state protein design: AF3-MSD/AF3-Cluster (ICLR 2026 GEM Workshop)
 
 **In silico** **evaluation**
 
 - Protein-based pharmacophore modelings: [PharmacoNet (Chemical Science 2024)](https://doi.org/10.1039/D4SC04854G)
 - Drug-likeness scoring: [Unsupervised drug-likeness (Chemical Science 2022)](https://doi.org/10.1039/D1SC05248A)
-- Enzyme-substrate specificity prediction: TBA.
+- Enzyme-substrate specificity prediction: Boltz2ESI (ICLR 2026 GEM Workshop)
