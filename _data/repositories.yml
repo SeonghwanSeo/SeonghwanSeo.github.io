@@ -4,9 +4,9 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
+  - SeonghwanSeo/kfold
+  - SeonghwanSeo/atlasfold
   - SeonghwanSeo/PharmacoNet
-  - SeonghwanSeo/OpenPharmaco
-  - SeonghwanSeo/BBAR
-  - SeonghwanSeo/DeepDL
   - SeonghwanSeo/RxnFlow
-  - tsa87/TacoGFN-SBDD
+  - tsa87/CGFlow
+  - SeonghwanSeo/DeepDL

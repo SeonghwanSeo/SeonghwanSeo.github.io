@@ -3,7 +3,7 @@ layout: page
 permalink: /repositories/
 title: repositories
 description: https://github.com/SeonghwanSeo
-nav: true
+nav: false
 nav_order: 4
 ---
 

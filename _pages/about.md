@@ -25,13 +25,17 @@ latest_posts:
 
 I am a Ph.D. student in the Department of Chemistry, KAIST, under the supervision of [Prof. Woo Youn Kim](https://wooyoun.kaist.ac.kr).
 
-My research area is AI-driven drug discovery, focusing on deep generative models for molecular design and _in silico_ evaluation. 
-During my Ph.D., I have specialized in integrating RL agent (RxnFlow) with autonomous laboratories to accelerate the discovery cycle.
+My research area is AI-driven drug discovery, focusing on deep generative models for molecular design and _in silico_ evaluation.
+During my Ph.D., I have specialized in integrating RL agents with autonomous laboratories to accelerate the discovery cycle.
 
-Currently, I serve as the primary developer for K-Fold, a national project dedicated to biomolecular structure prediction.
-Moreover, I am extending my research into computational protein design, collaborating with Prof. Wengong Jin.
+More recently, I served as the primary developer for the K-Fold national project on biomolecular structure prediction, developing [AtlasFold](https://github.com/SeonghwanSeo/atlasfold) for proteins and [K-Fold](https://github.com/SeonghwanSeo/kfold) for general biomolecular complexes.
+I am also extending my research into computational protein design, collaborating with Prof. Wengong Jin.
 
 ## research highlights
+
+**Biomolecular structure prediction**
+
+- Biomolecular structure prediction: [AtlasFold (bioRxiv 2026)](https://www.biorxiv.org/content/10.64898/2026.09.04.749352v2), K-Fold (TBA)
 
 **Generative modeling**
 
@@ -41,6 +45,6 @@ Moreover, I am extending my research into computational protein design, collabor
 
 **In silico** **evaluation**
 
-- Protein-based pharmacophore modelings: [PharmacoNet (Chemical Science 2024)](https://doi.org/10.1039/D4SC04854G)
+- Protein-based pharmacophore modeling: [PharmacoNet (Chemical Science 2024)](https://doi.org/10.1039/D4SC04854G)
 - Drug-likeness scoring: [Unsupervised drug-likeness (Chemical Science 2022)](https://doi.org/10.1039/D1SC05248A)
 - Enzyme-substrate specificity prediction: Boltz2ESI (ICLR 2026 GEM Workshop)
