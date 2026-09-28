@@ -28,14 +28,14 @@ I am a Ph.D. student in the Department of Chemistry, KAIST, under the supervisio
 My research area is AI-driven drug discovery, focusing on deep generative models for molecular design and _in silico_ evaluation.
 During my Ph.D., I have specialized in integrating RL agents with autonomous laboratories to accelerate the discovery cycle.
 
-More recently, I served as the primary developer for the K-Fold national project on biomolecular structure prediction, developing [AtlasFold](https://github.com/SeonghwanSeo/atlasfold) for proteins and [K-Fold](https://github.com/SeonghwanSeo/kfold) for general biomolecular complexes.
+More recently, I served as the primary developer of **Team KAIST** for biomolecular structure prediction, developing [AtlasFold](https://github.com/SeonghwanSeo/atlasfold) for proteins and [K-Fold](https://github.com/SeonghwanSeo/kfold) for general biomolecular complexes.
 I am also extending my research into computational protein design, collaborating with Prof. Wengong Jin.
 
 ## research highlights
 
 **Biomolecular structure prediction**
 
-- Biomolecular structure prediction: [AtlasFold (bioRxiv 2026)](https://www.biorxiv.org/content/10.64898/2026.09.04.749352v2), K-Fold (TBA)
+- Biomolecular structure prediction: [AtlasFold (bioRxiv 2026)](https://www.biorxiv.org/content/10.64898/2026.09.04.749352v2), [K-Fold](https://github.com/SeonghwanSeo/kfold)
 
 **Generative modeling**
 

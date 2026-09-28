@@ -17,5 +17,11 @@ services:
       - 35729:35729
     volumes:
       - .:/srv/jekyll
+      - jekyll_cache:/srv/jekyll/.jekyll-cache
+      - jekyll_site:/srv/jekyll/_site
     environment:
       - JEKYLL_ENV=development
+
+volumes:
+  jekyll_cache:
+  jekyll_site:
