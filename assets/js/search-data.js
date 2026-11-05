@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "cv",
-          description: "Last Updated: 2026.09.28",
+          description: "Last Updated: 2026.11.05",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
@@ -57,8 +57,11 @@ ninja.data = [{
           section: "News",},{id: "news-i-organized-a-workshop-on-the-2026-workshop-on-generative-ai-and-agentic-ai-for-biology-genbio-at-icml-2026-seoul-korea",
           title: 'I organized a workshop on “The 2026 workshop on Generative AI and Agentic...',
           description: "",
-          section: "News",},{id: "news-the-k-fold-preview-is-now-released",
-          title: 'The K-Fold preview is now released.',
+          section: "News",},{id: "news-our-preprint-on-synthesis-aware-generative-design-in-trillion-scale-chemical-spaces-for-automated-drug-discovery-is-now-available-on-biorxiv-code-rxnflow",
+          title: 'Our preprint on synthesis-aware generative design in trillion-scale chemical spaces for automated drug...',
+          description: "",
+          section: "News",},{id: "news-our-k-fold-preprint-predicting-conformational-changes-induced-by-biomolecular-interactions-is-now-available-on-biorxiv-code-k-fold",
+          title: 'Our K-Fold preprint, “Predicting conformational changes induced by biomolecular interactions,” is now available...',
           description: "",
           section: "News",},{id: "projects-hyper-screening-x",
           title: 'Hyper Screening X',
