@@ -28,19 +28,19 @@ I am a Ph.D. student in the Department of Chemistry, KAIST, under the supervisio
 My research area is AI-driven drug discovery, focusing on deep generative models for molecular design and _in silico_ evaluation.
 During my Ph.D., I have specialized in integrating RL agents with autonomous laboratories to accelerate the discovery cycle.
 
-More recently, I served as the primary developer of **Team KAIST** for biomolecular structure prediction, developing [AtlasFold](https://github.com/SeonghwanSeo/atlasfold) for proteins and [K-Fold](https://github.com/SeonghwanSeo/kfold) for general biomolecular complexes.
+More recently, I served as the engineering lead of **Team KAIST** for biomolecular structure prediction, developing [AtlasFold](https://github.com/SeonghwanSeo/atlasfold) for proteins and [K-Fold](https://github.com/kaist-ai-bio/kfold) for general biomolecular complexes.
 I am also extending my research into computational protein design, collaborating with Prof. Wengong Jin.
 
 ## research highlights
 
 **Biomolecular structure prediction**
 
-- Biomolecular structure prediction: [AtlasFold (bioRxiv 2026)](https://www.biorxiv.org/content/10.64898/2026.09.04.749352v2), [K-Fold](https://github.com/SeonghwanSeo/kfold)
+- Biomolecular structure prediction: [AtlasFold (bioRxiv 2026)](https://www.biorxiv.org/content/10.64898/2026.09.04.749352v2), [K-Fold (bioRxiv 2026)](https://www.biorxiv.org/content/10.64898/2026.10.26.760299)
 
 **Generative modeling**
 
 - Generative flow networks (GFlowNets): [TacoGFN (TMLR 2024)](https://arxiv.org/abs/2310.03223), [CGFlow (ICML 2025)](https://arxiv.org/abs/2504.08051)
-- Synthesis-oriented molecular design: [BBAR (Advanced Science 2023)](https://doi.org/10.1002/advs.202206674), [RxnFlow (ICLR 2025)](https://arxiv.org/abs/2410.04542)
+- Synthesis-oriented molecular design: [BBAR (Advanced Science 2023)](https://doi.org/10.1002/advs.202206674), [RxnFlow (ICLR 2025)](https://arxiv.org/abs/2410.04542), [HSX (bioRxiv 2026)](https://www.biorxiv.org/content/10.64898/2026.10.01.755933)
 - Multi-state protein design: AF3-MSD/AF3-Cluster (ICLR 2026 GEM Workshop)
 
 **In silico** **evaluation**
